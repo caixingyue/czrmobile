@@ -1,0 +1,8 @@
+/*
+ * 作者：探す音夢
+ * 功能：移动端模拟页面
+ * 时间：2018年1月6日
+ * 版本：V1.0
+ ***转载请注明出处***
+*/
+.czrMobile{border:1px solid#d4d4d4}.czrMobile .both{clear:both}.czrMobile .header{padding:8px 0}.czrMobile .nav{height:30px;line-height:30px;padding-right:5px}.czrMobile .nav span{color:#FFF;font-size:10px;padding-left:10px;user-select:none}.czrMobile .nav img{width:20px;float:right;padding:5px;user-select:none}.czrMobile .nav img:nth-child(3){width:25px;padding:3px 0 0 0}.czrMobile .nav img:nth-child(4){width:15px;padding-top:9px}.czrMobile .content{overflow-x:auto;border:0;width:100%;position:relative}.czrMobile .roll::-webkit-scrollbar{width:5px;height:5px}.czrMobile .roll::-webkit-scrollbar-thumb{background-color:#999;-webkit-border-radius:5px;border-radius:5px}.czrMobile .roll::-webkit-scrollbar-thumb:vertical:hover{background-color:#666}.czrMobile.roll::-webkit-scrollbar-thumb:vertical:active{background-color:#333}.czrMobile .roll::-webkit-scrollbar-button{display:none}.czrMobile.roll::-webkit-scrollbar-track{background-color:#f1f1f1}.czrMobile .content*{max-width:100%}.czrMobile .footer{text-align:center}.czrMobile .footer img{width:20px;padding:10px 5%;margin:0 5%;user-select:none}.czrMobile .footer img:active{background:rgba(255,255,255,0.34)}
