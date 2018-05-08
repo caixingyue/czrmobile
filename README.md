@@ -1,13 +1,15 @@
 # 关于czrmobile
-czrmobile是一款嵌入在PC端页面上展示手机网页效果的插件，可以让你在电脑后台上实时看到手机上展示的效果
+czrmobile是一款嵌入在PC端页面上展示手机网页效果的插件，可以让你在电脑后台上实时看到手机上展示的效果。
+
+![image](https://github.com/caixingyue/czrmobile/blob/master/images/examples.jpg)
 # 如何使用czrmobile
 ● 在需要使用czrmobile的页面引入“js/czrmobile.js” <br>
 ● 在需要展示的位置添加div并设置id <br>
 ● 调用插件：<br>
-  $('#demo').czrMobile({<br>
-    content:'Hello'<br>
-    //这里可以继续填写其他参数哦<br>
-  });<br>
+$('#demo').czrMobile({<br>
+content:'Hello'<br>
+//这里可以继续填写其他参数哦<br>
+});<br>
   
 # 参数
 ● 主体大小：area:字符串时为宽高一致，可用数组填写宽/高大小[默认宽度350px，高度auto]<br>
